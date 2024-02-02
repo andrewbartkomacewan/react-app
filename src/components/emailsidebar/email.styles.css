@@ -1,0 +1,30 @@
+.readEmail {
+    background-color: rgb(44, 184, 244);
+    border-radius: 8px;
+    display: flex;
+    outline:2px solid black;
+    border: aquamarine;
+    flex-direction: column;
+    width: 400px;
+}
+.unReadEmail {
+    background-color: rgba(0, 213, 255, 0.142);
+    outline: 2px solid black;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    flex-direction: column;
+    width: 400px;
+}
+.activeEmail {
+    background-color: yellow;
+    outline: 2px solid black;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    flex-direction: column;
+    width: 400px;
+
+}
+
+    

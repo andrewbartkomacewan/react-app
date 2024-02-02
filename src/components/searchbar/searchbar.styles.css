@@ -1,0 +1,13 @@
+.search {
+    text-align: left;
+    border: black;
+    outline: yes;
+    padding: 10px;
+    width: 395px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    background-color: beige;
+    border-radius: 8px;
+    height: 40 px;
+}
+    
